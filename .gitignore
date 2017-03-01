@@ -6,7 +6,7 @@
 Assets/AssetStoreTools*
 
 # More things because reasons
-ProjectSettings/ProjectSettings.asset
+#ProjectSettings/ProjectSettings.asset
 ProjectSettings/UnityConnectSettings.asset
 
 # Visual Studio 2015 cache directory
