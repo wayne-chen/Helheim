@@ -1,6 +1,7 @@
+# Helheim
 Helheim is a game about vikings, death, and sillyness. It's not to be taken seriously.
 
-To do:
+## TODO
 
 * Create flowcharts
   * Review game concepts, create high level flowchart
